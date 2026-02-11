@@ -60,15 +60,15 @@ A job aggregation tool that fetches, filters, and displays tech job listings in 
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=garry5683&theme=tokyonight&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=garry5683&no-frame=true&margin-w=8&row=1&column=6)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Garry's GitHub stats](https://github-readme-stats.vercel.app/api?username=garry5683&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garry5683&show_icons=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garry5683&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garry5683&layout=compact)
 
 ---
 
