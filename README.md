@@ -3,7 +3,7 @@
 💻 Frontend Developer | Angular Specialist  
 🚀 Passionate about building scalable web apps  
 📍 Based in India  
-🎯 Currently working on real-time trading dashboards & dynamic web platforms  
+🎯 Currently working on real-time mentoring platforms & dynamic web platforms  
 
 ---
 
