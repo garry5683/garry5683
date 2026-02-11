@@ -58,12 +58,6 @@ A job aggregation tool that fetches, filters, and displays tech job listings in 
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy-six-sooty.vercel.app/?username=garry5683&no-frame=true&margin-w=8&row=1&column=6)
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-delta-two-94.vercel.app/api?username=garry5683&show_icons=true&count_private=true)
