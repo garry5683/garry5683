@@ -54,18 +54,19 @@ A job aggregation tool that fetches, filters, and displays tech job listings in 
 ## 🌐 Portfolio Website
 
 🚀 Check out my personal developer portfolio showcasing projects and skills:  
-🔗 **https://your-portfolio-link.com**
+🔗 **https://garry-david-portfolio.vercel.app/**
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-delta-two-94.vercel.app/api?username=garry5683&show_icons=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats-delta-two-94.vercel.app/api/top-langs/?username=garry5683&layout=compact)
 
 
----
+--- 
+-->
 
 ## 👨‍💻 My GitHub Profiles
 
